@@ -74,13 +74,13 @@ GANgineer의 최종목표는 미세조직 특성 파악을 통한 신소재 연�
 
 ### Unsupervised Learning Model
 
-![AnoGAN](https://github.com/yjucho1/anoGAN)
+[AnoGAN](https://github.com/yjucho1/anoGAN)
 
-![fAnoGAN](https://github.com/tSchlegl/f-AnoGAN)
+[fAnoGAN](https://github.com/tSchlegl/f-AnoGAN)
 
 ### Semi-Supervised Learning Model
 
-![GANomaly](https://github.com/YeongHyeon/GANomaly)
+[GANomaly](https://github.com/YeongHyeon/GANomaly)
 
 ---
 
