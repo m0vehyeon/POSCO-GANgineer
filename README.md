@@ -6,7 +6,7 @@
 
 ## Demonstration Video
 
-
+[![대학원생의하루](./img/대학원생의하루.PNG)](https://www.youtube.com/watch?v=0yJ-6_Lu6pk)
 
 ---
 
